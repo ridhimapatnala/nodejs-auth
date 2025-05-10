@@ -1,7 +1,7 @@
- Node.js Backend with Express & MongoDB
+# Node.js Backend with Express & MongoDB
 A backend app built with Node.js, Express, and MongoDB.
 
- Features
+# Features
 User registration and login
 
 JWT authentication
@@ -12,7 +12,7 @@ Admins can upload and delete images
 
 Users can view uploaded images
 
- Tech Stack
+# Tech Stack
 Node.js + Express
 
 MongoDB + Mongoose
